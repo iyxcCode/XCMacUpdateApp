@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  XCMacUpdateApp
+
+  Created by yuan on 2020/06/29.
+  Copyright © 2020 xccn. All rights reserved.
+*/
+
+"Starting download..." = "开始下载...";
+"Downloading..." = "下载中...";
+"Extracting..." = "提取中...";
+"Installing..." = "安装中...";
+"Installed" = "安装完";
+"Installation failed" = "安装失败";
+"Extracting failed" = "提取失败";
+"Download failed" = "下载失败";
+"Done" = "完成!";
+"Failed" = "失败";
+"{{app_name}} Installer" = "{{app_name}} 安装程序";

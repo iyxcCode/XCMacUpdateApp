@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-XCMacUpdateApp/Pods-XCMacUpdateApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Zip/Zip.framework
